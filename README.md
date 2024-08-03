@@ -1,4 +1,6 @@
 # System-Analysis-and-Software-Technology
+# The CarSharing System
+**NOTE:** This project was part of a university course on System Analysis and Software Technology at Harokopio University of Athens.
 ## CarSharing System
 ### Overview
 The CarSharing System is a platform that allows users to rent vehicles (cars, motorcycles) when they are not in use by the owners. Vehicle owners can list their vehicles on the platform for rental, specifying details such as availability and rental rates. Users can search for available vehicles, make reservations, and complete payments through the system.
